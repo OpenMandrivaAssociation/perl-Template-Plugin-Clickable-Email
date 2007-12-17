@@ -15,7 +15,6 @@ Buildrequires:  perl(Module::Build)
 Buildrequires:  perl(Template)
 Buildrequires:  perl(Email::Find)
 buildArch:      noarch
-buildRoot:      %{_tmppath}/%{name}-%{version}
 
 %description
 Template::Plugin::Clickable::Email converts any e-mail addresses found in the
