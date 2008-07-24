@@ -1,7 +1,7 @@
 %define module  Template-Plugin-Clickable-Email
 %define name    perl-%{module}
 %define version 0.01
-%define release %mkrel 1
+%define release %mkrel 3
 
 Name:           %{name}
 Version:        %{version}
