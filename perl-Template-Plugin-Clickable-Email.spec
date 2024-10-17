@@ -8,7 +8,7 @@ Release:    3
 Summary:    Make email addresses in to HTML links
 License:    Artistic
 Group:      Development/Perl
-Url:        http://search.cpan.org/dist/%{upstream_name}
+Url:        https://search.cpan.org/dist/%{upstream_name}
 Source0:    http://www.cpan.org/modules/by-module/Template/%{upstream_name}-%{upstream_version}.tar.bz2
 
 Buildrequires:  perl(Module::Build)
